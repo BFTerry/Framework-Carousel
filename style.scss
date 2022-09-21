@@ -7,16 +7,18 @@
 }
 
 .pg-1 {
-    background-image: url(images/framebackground.jpeg);
+    background-image: url(../images/hexwave.gif);
+    background-attachment: fixed;
     
 }
 
 .pg-2 {
-    background-attachment: fixed;
-    background-color: brown;
+    
+    background-image: url(../images/framebackground.jpeg);
 }
 
 .pg-3 {
+    background-attachment: fixed;
+    background-image: url(../images/White.gif);
     
-    background-color: chartreuse;
 }
